@@ -1,0 +1,53 @@
+@charset "UTF-8";
+
+td.contentbox{
+	background-color: #62c8ff;
+	height: 520px;
+}
+td.content_text{
+	font-size: 20px;
+	font-family: malgun; 
+	font-weight: bold;
+	color:#FFFFFF;
+	text-align:right;
+}
+input.inputbox01{
+	border: 1px solid #03b4b8;
+	background-color: #ffffff;
+	width: 250px;
+	font-family: Arial;
+	font-size: 20px;
+	color: #002e46;
+	padding:5px;
+}
+input.content_btn01{
+	border: 2px solid #ffffff;
+	background-color: #03b4b8;
+	width:180px;
+	height: 40px;
+	font-family: malgun;
+	font-size: 20px;
+	color:#ffffff;
+	font-weight: bold;
+	padding: 5px;
+	cursor:pointer;
+}
+td.main_text{
+	font-size: 20px;
+	font-family: malgun; 
+	font-weight: bold;
+	color:#FFFFFF;
+	text-align:left;
+}
+textarea.textareabox{
+	border: 1px solid #03b4b8;
+	background-color: #ffffff;
+	width: 250px;
+	font-family: Arial;
+	font-size: 20px;
+	color: #00ffff;
+	padding:5px;
+}
+
+
+
